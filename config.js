@@ -23,8 +23,8 @@ global.REACT_NUMBER = '923231582002' //මෙතන number එක.
 // Other
 global.owner = ['923231582002',''] //මෙතන number එක.
 global.premium = ['923231582002','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
+global.botname = '𝐈𝐭'𝐬 𝐦𝐞 ๛ジ𝐖𝟔丨𝐒𝐀𝐋𝐌𝐀𝐍ツ😓 INC' //මෙතන නම.
+global.ownername = '๛ジW6丨SALMANツ MD' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/JOe5QVTnScFJgcM165JbPt' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
